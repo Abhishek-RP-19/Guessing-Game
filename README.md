@@ -55,8 +55,6 @@ Play the game here: [https://abiguessinggame.ccbp.tech](https://abiguessinggame.
 
 ## 7. Screenshot
 
-Add a real screenshot here for better presentation  
-Placeholder image:  
 ![Game Screenshot](https://res.cloudinary.com/dzftwxkiu/image/upload/v1747232941/Screenshot_2025-05-14_195325_hnq6li.png)
 
 ---
